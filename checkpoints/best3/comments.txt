@@ -1,2 +1,0 @@
-Avg game duration: 0.251 seconds
-Avg game length: 61.01 plays | Total Duration: 7:02:12

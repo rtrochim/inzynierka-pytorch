@@ -1,0 +1,1 @@
+web: python ./app/main.py web --host 0.0.0.0 --port $PORT --model ./app/web/model/opponent.tar --hidden_units 40

@@ -1,0 +1,600 @@
+{"lr001_10000.tar": {"Random": 50,
+    "Expert": 0,
+    "Intermediate": 5,
+    "Beginner": 4
+  },
+  "lr001_1000.tar": {
+    "Random": 49,
+    "Expert": 0,
+    "Intermediate": 5,
+    "Beginner": 3
+  },
+  "lr001_100.tar": {
+    "Random": 59,
+    "Expert": 0,
+    "Beginner": 0,
+    "Intermediate": 2
+  },
+  "lr001_1100.tar": {
+    "Random": 64,
+    "Expert": 0,
+    "Intermediate": 4,
+    "Beginner": 9
+  },
+  "lr001_1200.tar": {
+    "Random": 62,
+    "Expert": 2,
+    "Intermediate": 5,
+    "Beginner": 4
+  },
+  "lr001_1300.tar": {
+    "Random": 55,
+    "Expert": 3,
+    "Intermediate": 3,
+    "Beginner": 3
+  },
+  "lr001_1400.tar": {
+    "Random": 55,
+    "Expert": 1,
+    "Intermediate": 7,
+    "Beginner": 6
+  },
+  "lr001_1500.tar": {
+    "Random": 58,
+    "Expert": 0,
+    "Beginner": 5,
+    "Intermediate": 6
+  },
+  "lr001_1600.tar": {
+    "Random": 58,
+    "Expert": 4,
+    "Beginner": 2,
+    "Intermediate": 5
+  },
+  "lr001_1700.tar": {
+    "Random": 61,
+    "Expert": 0,
+    "Beginner": 5,
+    "Intermediate": 4
+  },
+  "lr001_1800.tar": {
+    "Random": 62,
+    "Expert": 2,
+    "Intermediate": 8,
+    "Beginner": 4
+  },
+  "lr001_1900.tar": {
+    "Random": 58,
+    "Expert": 1,
+    "Intermediate": 2,
+    "Beginner": 5
+  },
+  "lr001_2000.tar": {
+    "Random": 59,
+    "Expert": 3,
+    "Intermediate": 3,
+    "Beginner": 7
+  },
+  "lr001_200.tar": {
+    "Random": 54,
+    "Expert": 0,
+    "Beginner": 0,
+    "Intermediate": 1
+  },
+  "lr001_2100.tar": {
+    "Random": 59,
+    "Expert": 0,
+    "Intermediate": 6,
+    "Beginner": 9
+  },
+  "lr001_2200.tar": {
+    "Random": 58,
+    "Expert": 2,
+    "Intermediate": 6,
+    "Beginner": 7
+  },
+  "lr001_2300.tar": {
+    "Random": 66,
+    "Expert": 1,
+    "Intermediate": 1,
+    "Beginner": 4
+  },
+  "lr001_2400.tar": {
+    "Random": 65,
+    "Expert": 3,
+    "Intermediate": 4,
+    "Beginner": 5
+  },
+  "lr001_2500.tar": {
+    "Random": 53,
+    "Expert": 0,
+    "Intermediate": 8,
+    "Beginner": 5
+  },
+  "lr001_2600.tar": {
+    "Random": 67,
+    "Expert": 1,
+    "Beginner": 6,
+    "Intermediate": 6
+  },
+  "lr001_2700.tar": {
+    "Random": 52,
+    "Expert": 2,
+    "Intermediate": 7,
+    "Beginner": 4
+  },
+  "lr001_2800.tar": {
+    "Random": 64,
+    "Expert": 1,
+    "Intermediate": 6,
+    "Beginner": 3
+  },
+  "lr001_2900.tar": {
+    "Random": 61,
+    "Expert": 3,
+    "Intermediate": 6,
+    "Beginner": 8
+  },
+  "lr001_3000.tar": {
+    "Random": 63,
+    "Expert": 2,
+    "Intermediate": 1,
+    "Beginner": 6
+  },
+  "lr001_300.tar": {
+    "Random": 56,
+    "Expert": 0,
+    "Intermediate": 1,
+    "Beginner": 3
+  },
+  "lr001_3100.tar": {
+    "Random": 58,
+    "Expert": 1,
+    "Intermediate": 5,
+    "Beginner": 7
+  },
+  "lr001_3200.tar": {
+    "Random": 57,
+    "Expert": 0,
+    "Intermediate": 1,
+    "Beginner": 6
+  },
+  "lr001_3300.tar": {
+    "Random": 62,
+    "Expert": 0,
+    "Intermediate": 4,
+    "Beginner": 2
+  },
+  "lr001_3400.tar": {
+    "Random": 56,
+    "Expert": 1,
+    "Intermediate": 2,
+    "Beginner": 7
+  },
+  "lr001_3500.tar": {
+    "Random": 56,
+    "Expert": 0,
+    "Intermediate": 1,
+    "Beginner": 5
+  },
+  "lr001_3600.tar": {
+    "Random": 50,
+    "Expert": 3,
+    "Beginner": 5,
+    "Intermediate": 4
+  },
+  "lr001_3700.tar": {
+    "Random": 52,
+    "Expert": 1,
+    "Intermediate": 5,
+    "Beginner": 1
+  },
+  "lr001_3800.tar": {
+    "Random": 53,
+    "Expert": 1,
+    "Intermediate": 5,
+    "Beginner": 3
+  },
+  "lr001_3900.tar": {
+    "Random": 60,
+    "Expert": 1,
+    "Intermediate": 3,
+    "Beginner": 6
+  },
+  "lr001_4000.tar": {
+    "Random": 55,
+    "Expert": 0,
+    "Intermediate": 4,
+    "Beginner": 3
+  },
+  "lr001_400.tar": {
+    "Random": 71,
+    "Expert": 0,
+    "Beginner": 1,
+    "Intermediate": 2
+  },
+  "lr001_4100.tar": {
+    "Random": 48,
+    "Expert": 0,
+    "Intermediate": 5,
+    "Beginner": 5
+  },
+  "lr001_4200.tar": {
+    "Random": 62,
+    "Expert": 2,
+    "Beginner": 2,
+    "Intermediate": 3
+  },
+  "lr001_4300.tar": {
+    "Random": 50,
+    "Expert": 0,
+    "Beginner": 5,
+    "Intermediate": 3
+  },
+  "lr001_4400.tar": {
+    "Random": 41,
+    "Beginner": 1,
+    "Expert": 1,
+    "Intermediate": 3
+  },
+  "lr001_4500.tar": {
+    "Random": 45,
+    "Expert": 0,
+    "Intermediate": 3,
+    "Beginner": 1
+  },
+  "lr001_4600.tar": {
+    "Random": 47,
+    "Expert": 0,
+    "Beginner": 1,
+    "Intermediate": 4
+  },
+  "lr001_4700.tar": {
+    "Random": 41,
+    "Expert": 1,
+    "Intermediate": 2,
+    "Beginner": 2
+  },
+  "lr001_4800.tar": {
+    "Random": 55,
+    "Expert": 1,
+    "Intermediate": 1,
+    "Beginner": 2
+  },
+  "lr001_4900.tar": {
+    "Random": 45,
+    "Expert": 2,
+    "Intermediate": 5,
+    "Beginner": 6
+  },
+  "lr001_5000.tar": {
+    "Random": 45,
+    "Expert": 0,
+    "Intermediate": 5,
+    "Beginner": 4
+  },
+  "lr001_500.tar": {
+    "Random": 58,
+    "Expert": 0,
+    "Intermediate": 5,
+    "Beginner": 2
+  },
+  "lr001_5100.tar": {
+    "Random": 50,
+    "Expert": 1,
+    "Intermediate": 3,
+    "Beginner": 3
+  },
+  "lr001_5200.tar": {
+    "Random": 55,
+    "Expert": 1,
+    "Beginner": 2,
+    "Intermediate": 0
+  },
+  "lr001_5300.tar": {
+    "Random": 48,
+    "Expert": 1,
+    "Intermediate": 1,
+    "Beginner": 2
+  },
+  "lr001_5400.tar": {
+    "Random": 45,
+    "Expert": 0,
+    "Intermediate": 3,
+    "Beginner": 5
+  },
+  "lr001_5500.tar": {
+    "Random": 36,
+    "Expert": 0,
+    "Intermediate": 2,
+    "Beginner": 4
+  },
+  "lr001_5600.tar": {
+    "Random": 45,
+    "Expert": 0,
+    "Beginner": 2,
+    "Intermediate": 8
+  },
+  "lr001_5700.tar": {
+    "Random": 42,
+    "Expert": 1,
+    "Beginner": 4,
+    "Intermediate": 5
+  },
+  "lr001_5800.tar": {
+    "Random": 42,
+    "Expert": 1,
+    "Intermediate": 5,
+    "Beginner": 3
+  },
+  "lr001_5900.tar": {
+    "Random": 39,
+    "Expert": 1,
+    "Intermediate": 2,
+    "Beginner": 7
+  },
+  "lr001_6000.tar": {
+    "Random": 48,
+    "Expert": 1,
+    "Beginner": 3,
+    "Intermediate": 1
+  },
+  "lr001_600.tar": {
+    "Random": 60,
+    "Expert": 0,
+    "Intermediate": 5,
+    "Beginner": 3
+  },
+  "lr001_6100.tar": {
+    "Random": 38,
+    "Expert": 2,
+    "Intermediate": 2,
+    "Beginner": 5
+  },
+  "lr001_6200.tar": {
+    "Random": 49,
+    "Expert": 2,
+    "Intermediate": 3,
+    "Beginner": 3
+  },
+  "lr001_6300.tar": {
+    "Random": 39,
+    "Expert": 0,
+    "Beginner": 4,
+    "Intermediate": 0
+  },
+  "lr001_6400.tar": {
+    "Random": 38,
+    "Expert": 1,
+    "Intermediate": 2,
+    "Beginner": 2
+  },
+  "lr001_6500.tar": {
+    "Random": 42,
+    "Expert": 2,
+    "Beginner": 5,
+    "Intermediate": 3
+  },
+  "lr001_6600.tar": {
+    "Random": 47,
+    "Expert": 1,
+    "Beginner": 3,
+    "Intermediate": 6
+  },
+  "lr001_6700.tar": {
+    "Random": 33,
+    "Expert": 2,
+    "Intermediate": 0,
+    "Beginner": 2
+  },
+  "lr001_6800.tar": {
+    "Random": 35,
+    "Expert": 2,
+    "Beginner": 4,
+    "Intermediate": 1
+  },
+  "lr001_6900.tar": {
+    "Random": 38,
+    "Expert": 4,
+    "Intermediate": 5,
+    "Beginner": 2
+  },
+  "lr001_7000.tar": {
+    "Random": 40,
+    "Expert": 1,
+    "Beginner": 4,
+    "Intermediate": 1
+  },
+  "lr001_700.tar": {
+    "Random": 56,
+    "Expert": 1,
+    "Beginner": 1,
+    "Intermediate": 4
+  },
+  "lr001_7100.tar": {
+    "Random": 34,
+    "Expert": 0,
+    "Intermediate": 4,
+    "Beginner": 3
+  },
+  "lr001_7200.tar": {
+    "Random": 41,
+    "Expert": 0,
+    "Beginner": 9,
+    "Intermediate": 5
+  },
+  "lr001_7300.tar": {
+    "Random": 41,
+    "Expert": 2,
+    "Intermediate": 2,
+    "Beginner": 4
+  },
+  "lr001_7400.tar": {
+    "Random": 39,
+    "Expert": 1,
+    "Intermediate": 1,
+    "Beginner": 2
+  },
+  "lr001_7500.tar": {
+    "Random": 50,
+    "Expert": 2,
+    "Intermediate": 8,
+    "Beginner": 5
+  },
+  "lr001_7600.tar": {
+    "Random": 46,
+    "Expert": 0,
+    "Beginner": 5,
+    "Intermediate": 5
+  },
+  "lr001_7700.tar": {
+    "Random": 52,
+    "Expert": 2,
+    "Intermediate": 2,
+    "Beginner": 4
+  },
+  "lr001_7800.tar": {
+    "Random": 45,
+    "Expert": 1,
+    "Beginner": 2,
+    "Intermediate": 4
+  },
+  "lr001_7900.tar": {
+    "Random": 40,
+    "Expert": 1,
+    "Intermediate": 4,
+    "Beginner": 3
+  },
+  "lr001_8000.tar": {
+    "Random": 47,
+    "Expert": 2,
+    "Intermediate": 4,
+    "Beginner": 5
+  },
+  "lr001_800.tar": {
+    "Random": 55,
+    "Expert": 2,
+    "Intermediate": 1,
+    "Beginner": 3
+  },
+  "lr001_8100.tar": {
+    "Random": 50,
+    "Expert": 2,
+    "Beginner": 5,
+    "Intermediate": 6
+  },
+  "lr001_8200.tar": {
+    "Random": 47,
+    "Expert": 2,
+    "Beginner": 4,
+    "Intermediate": 6
+  },
+  "lr001_8300.tar": {
+    "Random": 52,
+    "Expert": 0,
+    "Beginner": 4,
+    "Intermediate": 3
+  },
+  "lr001_8400.tar": {
+    "Random": 52,
+    "Expert": 1,
+    "Intermediate": 6,
+    "Beginner": 3
+  },
+  "lr001_8500.tar": {
+    "Random": 48,
+    "Expert": 0,
+    "Beginner": 2,
+    "Intermediate": 5
+  },
+  "lr001_8600.tar": {
+    "Random": 55,
+    "Expert": 3,
+    "Intermediate": 7,
+    "Beginner": 4
+  },
+  "lr001_8700.tar": {
+    "Random": 47,
+    "Expert": 2,
+    "Intermediate": 6,
+    "Beginner": 3
+  },
+  "lr001_8800.tar": {
+    "Random": 46,
+    "Expert": 1,
+    "Intermediate": 9,
+    "Beginner": 6
+  },
+  "lr001_8900.tar": {
+    "Random": 48,
+    "Expert": 2,
+    "Beginner": 5,
+    "Intermediate": 3
+  },
+  "lr001_9000.tar": {
+    "Random": 51,
+    "Expert": 3,
+    "Intermediate": 5,
+    "Beginner": 7
+  },
+  "lr001_900.tar": {
+    "Random": 47,
+    "Expert": 0,
+    "Beginner": 4,
+    "Intermediate": 4
+  },
+  "lr001_9100.tar": {
+    "Random": 42,
+    "Expert": 1,
+    "Beginner": 7,
+    "Intermediate": 4
+  },
+  "lr001_9200.tar": {
+    "Random": 44,
+    "Expert": 1,
+    "Intermediate": 5,
+    "Beginner": 4
+  },
+  "lr001_9300.tar": {
+    "Random": 49,
+    "Expert": 1,
+    "Intermediate": 3,
+    "Beginner": 4
+  },
+  "lr001_9400.tar": {
+    "Random": 53,
+    "Expert": 2,
+    "Intermediate": 5,
+    "Beginner": 3
+  },
+  "lr001_9500.tar": {
+    "Random": 46,
+    "Expert": 1,
+    "Intermediate": 6,
+    "Beginner": 7
+  },
+  "lr001_9600.tar": {
+    "Random": 46,
+    "Expert": 0,
+    "Beginner": 3,
+    "Intermediate": 8
+  },
+  "lr001_9700.tar": {
+    "Random": 48,
+    "Expert": 0,
+    "Intermediate": 5,
+    "Beginner": 7
+  },
+  "lr001_9800.tar": {
+    "Random": 54,
+    "Expert": 0,
+    "Beginner": 0,
+    "Intermediate": 3
+  },
+  "lr001_9900.tar": {
+    "Random": 52,
+    "Expert": 2,
+    "Beginner": 4,
+    "Intermediate": 7
+  }
+}

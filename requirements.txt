@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+-e ./gym-backgammon
+gym==0.18.0
+numpy
+matplotlib
+requests
+torch==1.7.1+cpu
+torchvision>=0.4.0
+tb-nightly

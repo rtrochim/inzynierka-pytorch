@@ -1,0 +1,30 @@
+save_path=./app/checkpoints/lr/lr005
+command_line_args=Namespace(alpha=0.05, episodes=10000, func=<function train at 0x7efc367a2040>, hidden_units=40, init_weights=False, lambda_param=0.7, model=None, name='lr005', save_path='./app/checkpoints/lr/lr005', save_step=100, seed=123)
+hidden_units=40
+init_weights=False
+alpha=0.05
+lambda_param=0.7
+n_episodes=10000
+save_step=100
+start_episode=0
+name_experiment=lr005
+env=backgammon-v0
+restored_model=None
+seed=123
+eligibility=True
+modules=[TDGammon(
+  (hidden): Sequential(
+    (0): Linear(in_features=198, out_features=40, bias=True)
+    (1): Sigmoid()
+  )
+  (output): Sequential(
+    (0): Linear(in_features=40, out_features=1, bias=True)
+    (1): Sigmoid()
+  )
+), Sequential(
+  (0): Linear(in_features=198, out_features=40, bias=True)
+  (1): Sigmoid()
+), Linear(in_features=198, out_features=40, bias=True), Sigmoid(), Sequential(
+  (0): Linear(in_features=40, out_features=1, bias=True)
+  (1): Sigmoid()
+), Linear(in_features=40, out_features=1, bias=True), Sigmoid()]
